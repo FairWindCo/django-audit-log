@@ -9,3 +9,6 @@
 dist/*
 build/*
 docs/_build/*
+.venv
+.idea/*
+venv/*

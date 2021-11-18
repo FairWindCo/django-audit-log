@@ -21,6 +21,7 @@
 ============================
 django-audit-log
 ============================
+* it is fork https://github.com/vvangelovski/django-audit-log
 
 Tracking changes to django models.
 
@@ -109,4 +110,3 @@ You can then query the audit log::
 `The documentation can be found here <http://django-audit-log.readthedocs.org/en/latest/index.html>`_
 
 
-*Note: This project was not maintained actively for a while. One of the reasons was that I wasn't receiving email notifications from GitHub. The other reason: We were using it just on a couple of projects that were frozen to old versions of Django. If you need any help with the project you can contact me by email directly if I don't respond to your GitHub issues. Feel free to nudge me over email if you have a patch for something. You can find my email in the AUTHORS file.*
